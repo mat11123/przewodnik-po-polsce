@@ -1,1 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Allow: /publiczny-folder/
 Sitemap: https://mat11123.github.io/przewodnik-po-polsce/sitemap.xml
